@@ -18,6 +18,7 @@ http://172.16.x.xxx:1789/lbm/recom.html
 ```
 #### 浏览器远程调试
 打开 ```http://127.0.0.1:1790/client/#anonymous``` 在这个页面进行调试:
+#### 关闭防火墙专用网络
 #### 微信页面打开
 ```
 http://172.16.x.xxx:1789/lbm/recom.html
