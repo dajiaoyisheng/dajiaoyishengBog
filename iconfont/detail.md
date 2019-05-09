@@ -22,7 +22,7 @@ import '@/css/iconfont/iconfont.css'
 <i :class="iconfont iconAPIguanli"></i>
 ```
   ### 使用方法二
-  > 使用在线链接(因为iconfont在增加,总下载到本地比较麻烦)
+  > 使用在线链接(解决更新iconfont后,下载替换文件麻烦的问题,先注释,如果在线方式在网速差的时候影响加载的话再改过来,总的来说,在iconfont数量没确定下来用在线方式是很好的)
   #### 复制在线链接
   #### 使用
   ```index.html
